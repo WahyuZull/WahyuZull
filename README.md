@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WahyuZull
 - 👀 I’m interested in web devepoling
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning backend path
 - 📫 How to reach me : e-mail : wahyu.zuliyono@gmail.com, whatsapp/telegram : +6285727084912
 
 <!---
